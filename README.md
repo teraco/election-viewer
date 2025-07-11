@@ -1,6 +1,20 @@
-# React + TypeScript + Vite
+# 参議院選挙候補者×当選確率ビューア
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+都道府県を選択して参議院選挙候補者の当選確率を確認できる静的ウェブアプリケーションです。
+
+## 機能
+- 都道府県選択による候補者フィルタリング
+- 当選確率順の自動ソート・ランキング表示
+- レスポンシブデザイン（モバイル・デスクトップ対応）
+- 完全フロントエンド完結（運用コストゼロ）
+
+## 技術スタック
+- React + TypeScript + Vite
+- Tailwind CSS
+- GitHub Pages（自動デプロイ）
+
+## ライブサイト
+https://teraco.github.io/election-viewer/
 
 Currently, two official plugins are available:
 
