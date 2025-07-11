@@ -1,0 +1,83 @@
+[
+  {
+    "id": "tokyo-1",
+    "prefecture": "東京都",
+    "district": "東京選挙区",
+    "name": "田中 太郎",
+    "party": "無所属",
+    "probability": 0.602,
+    "updatedAt": "2025-07-10T12:00:00+09:00"
+  },
+  {
+    "id": "tokyo-2",
+    "prefecture": "東京都",
+    "district": "東京選挙区",
+    "name": "鈴木 花子",
+    "party": "テスト党",
+    "probability": 0.253,
+    "updatedAt": "2025-07-10T12:00:00+09:00"
+  },
+  {
+    "id": "tokyo-3",
+    "prefecture": "東京都",
+    "district": "東京選挙区",
+    "name": "佐藤 次郎",
+    "party": "自由党",
+    "probability": 0.145,
+    "updatedAt": "2025-07-10T12:00:00+09:00"
+  },
+  {
+    "id": "osaka-1",
+    "prefecture": "大阪府",
+    "district": "大阪選挙区",
+    "name": "山田 一郎",
+    "party": "民主党",
+    "probability": 0.451,
+    "updatedAt": "2025-07-10T12:00:00+09:00"
+  },
+  {
+    "id": "osaka-2",
+    "prefecture": "大阪府",
+    "district": "大阪選挙区",
+    "name": "高橋 真理",
+    "party": "保守党",
+    "probability": 0.389,
+    "updatedAt": "2025-07-10T12:00:00+09:00"
+  },
+  {
+    "id": "osaka-3",
+    "prefecture": "大阪府",
+    "district": "大阪選挙区",
+    "name": "中村 健太",
+    "party": "無所属",
+    "probability": 0.160,
+    "updatedAt": "2025-07-10T12:00:00+09:00"
+  },
+  {
+    "id": "kanagawa-1",
+    "prefecture": "神奈川県",
+    "district": "神奈川選挙区",
+    "name": "小林 美咲",
+    "party": "緑の党",
+    "probability": 0.512,
+    "updatedAt": "2025-07-10T12:00:00+09:00"
+  },
+  {
+    "id": "kanagawa-2",
+    "prefecture": "神奈川県",
+    "district": "神奈川選挙区",
+    "name": "渡辺 正樹",
+    "party": "自由党",
+    "probability": 0.331,
+    "updatedAt": "2025-07-10T12:00:00+09:00"
+  },
+  {
+    "id": "kanagawa-3",
+    "prefecture": "神奈川県",
+    "district": "神奈川選挙区",
+    "name": "伊藤 桜子",
+    "party": "民主党",
+    "probability": 0.157,
+    "updatedAt": "2025-07-10T12:00:00+09:00"
+  }
+]
