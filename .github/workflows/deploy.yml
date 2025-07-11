@@ -35,6 +35,13 @@ jobs:
     - name: Build application
       run: npm run build
       
+    - name: List build output
+      run: |
+        echo "=== Build output directory contents ==="
+        ls -la dist/
+        echo "=== dist/index.html content ==="
+        cat dist/index.html
+      
     - name: Setup Pages
       uses: actions/configure-pages@v5
       
